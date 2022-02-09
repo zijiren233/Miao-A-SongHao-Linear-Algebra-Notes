@@ -8,6 +8,7 @@
 - 本笔记改自github用户[cy69855522](https://github.com/cy69855522)，开源项目地址[Miao-A-SongHao-Linear-Algebra-Notes](https://github.com/cy69855522/Miao-A-SongHao-Linear-Algebra-Notes)，此笔记完善了大部分细节并补充了绝大多数晦涩难懂的证明过程
 - 本笔记建议搭配视频一同食用最佳~
 - 本笔记作者：[zijiren233](https://github.com/zijiren233)，本笔记的项目地址[Song-Hao-s-Notes-on-Linear-Algebra](https://github.com/zijiren233/Song-Hao-s-Notes-on-Linear-Algebra)
+- 请使用Typora打开.md文件并开启所有扩展语法以显示完整笔记
 
 ## ☄ P1 二阶三阶行列式
 
