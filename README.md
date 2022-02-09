@@ -182,7 +182,7 @@ $$
 
 * 构造新行列式
 
-  <img src="https://oss.pyhdxy.com/img/2022/02/02/22:38:07-image-20220202223807104.png" alt="image-20220202223807104" align='left' style="zoom: 50%;" />
+  <img src="picture/2.png" alt="image-20220202223807104" align='left' style="zoom: 50%;" />
 
 ### ⌚ 30:06 对角线为x，其余为a的行列式计算技巧
 
@@ -250,7 +250,7 @@ $$
 
 ### ⌚ 17:42 范德蒙德行列式
 
-![范德蒙德行列式](https://oss.pyhdxy.com/img/2022/02/02/23:55:33-范德蒙德行列式.png )
+![范德蒙德行列式](picture/3.png)
 
 ### ⌚ 40:42 反对称行列式
 
@@ -303,7 +303,7 @@ $$
 
 * x_j = D_j / D，D为方程组系数构成的行列式，D_j代表把方程组值用于替换D的第j列得到的行列式，x_j代表解
 
-  <img src="https://oss.pyhdxy.com/img/2022/02/02/23:56:00-克莱姆法则.png" alt="克莱姆法则" align='left' style="zoom:150%;" />
+  <img src="picture/4.png" alt="克莱姆法则" align='left' style="zoom:150%;" />
 
 ### ⌚ 09:11 解齐次线性方程组
 
@@ -315,7 +315,7 @@ $$
 
 * `若 D ≠ 0，只有零解` `若 D = 0 <=> 有非零解`
 
-  <img src="https://oss.pyhdxy.com/img/2022/02/02/23:56:29-克莱姆法则_齐次.png" alt="克莱姆法则_齐次" align='left' style="zoom:150%;" />
+  <img src="picture/5.png" alt="克莱姆法则_齐次" align='left' style="zoom:150%;" />
 
 [回到 行列式判断线性相关](#⌚ 37:20 行列式判断线性相关)
 
@@ -589,7 +589,7 @@ $$
 
 * 横线/竖线一气到头
 
-<img src="https://oss.pyhdxy.com/img/2022/02/03/20:53:07-image-20220203205305538.png" alt="image-20220203205305538" align='left' style="zoom: 50%;" />
+<img src="picture/6.png" alt="image-20220203205305538" align='left' style="zoom: 50%;" />
 
 ### ⌚ 04:34 标准形
 
@@ -668,9 +668,9 @@ A & C\\
 \end {align}
 $$
 
-<img src="https://oss.pyhdxy.com/img/2022/02/03/21:24:06-image-20220203212405296.png" alt="image-20220203212405296" style="zoom:50%;" />
+<img src="picture/7.png" alt="image-20220203212405296" style="zoom:50%;" />
 
-<img src="https://oss.pyhdxy.com/img/2022/02/03/21:35:54-image-20220203213553979.png" alt="image-20220203213553979" style="zoom:50%;" />
+<img src="picture/8.png" alt="image-20220203213553979" style="zoom:50%;" />
 $$
 H=
 \begin {bmatrix}
@@ -760,7 +760,7 @@ $$
 
 * 对`E`做一次初等(行/列)变换得到的矩阵为初等方阵
 
-<img src="https://oss.pyhdxy.com/img/2022/02/04/17:43:16-image-20220204174315021.png" alt="image-20220204174315021" style="zoom: 50%;" />
+<img src="picture/9.png" alt="image-20220204174315021" style="zoom: 50%;" />
 
 ### ⌚ 09:15 初等方阵的行列式和逆矩阵
 
@@ -965,7 +965,7 @@ $$
 * 初等（行、列）变换不改变秩
 * 矩阵求秩：A–初等变换–>阶梯形–数非零行的行数–>OK
 
-<img src="https://oss.pyhdxy.com/img/2022/02/04/20:43:06-image-20220204204304759.png" alt="image-20220204204304759" style="zoom: 50%;" />
+<img src="picture/10.png" alt="image-20220204204304759" style="zoom: 50%;" />
 
 [参考 制造行和的方法](#⌚ 30:06 对角线为x，其余为a的行列式计算技巧)
 
@@ -1317,7 +1317,7 @@ $$
 
 ### ⌚ 16:10 判断秩、解的过程
 
-<img src="https://oss.pyhdxy.com/img/2022/02/02/23:57:17-求解.png" alt="求解"  />
+<img src="picture/11.png" alt="求解"  />
 
 * 行简化阶梯型首非零元`1`的个数就是n
 
@@ -1521,9 +1521,9 @@ $$
 * 非齐次方程组的解 = 特解 + 导出组的通解
 * 求特解：化`Ā`至行最简阶梯型，得到首非零元表示，令所有自由变量为0，得到一个特解
 
-<img src="https://oss.pyhdxy.com/img/2022/02/05/23:16:53-image-20220205231651756.png" alt="image-20220205231651756" style="zoom: 50%;" />
+<img src="picture/12.png" alt="image-20220205231651756" style="zoom: 50%;" />
 
-<img src="https://oss.pyhdxy.com/img/2022/02/05/23:23:05-image-20220205232304565.png" alt="image-20220205232304565" style="zoom: 50%;" />
+<img src="picture/13.png" alt="image-20220205232304565" style="zoom: 50%;" />
 
 ## ☄ P32 矩阵的特征值与特征向量（一）
 
@@ -1921,11 +1921,11 @@ $$
 * `A ~ Λ `<=> ==对每个ri重特征根有ri个解==（即ri个自由变量）
 * [本知识点相对难理解，建议看视频](https://www.bilibili.com/video/BV1aW411Q7x1?p=36)
 
-<img src="https://oss.pyhdxy.com/img/2022/02/07/15:18:51-image-20220207151850469.png" alt="image-20220207151850469" style="zoom: 50%;" />
+<img src="picture/14.png" alt="image-20220207151850469" style="zoom: 50%;" />
 
 ### ⌚ 61:47 利用相似矩阵简单求矩阵的高次幂
 
-<img src="https://oss.pyhdxy.com/img/2022/02/07/15:34:08-image-20220207153407188.png" alt="image-20220207153407188" style="zoom:50%;" />
+<img src="picture/15.png" alt="image-20220207153407188" style="zoom:50%;" />
 
 ## ☄ P37 实对称矩阵的对角化（一）
 
@@ -2056,7 +2056,7 @@ $$
 
 - 给一组线性无关的向量组`α1,α2,...,αs`，求与之正交且等价的`β1,β2,...,βs`
 
-  ![施密特正交化](https://oss.pyhdxy.com/img/2022/02/02/23:57:54-施密特正交化.png)
+  ![施密特正交化](picture/16.png)
 
 * 施密特正交化（Schmidt orthogonalization）是求欧氏空间正交基的一种方法。从欧氏空间任意线性无关的向量组α1，α2，……，αm出发，求得正交向量组β1，β2，……，βm，使由α1，α2，……，αm与向量组β1，β2，……，βm等价，再将正交向量组中每个向量经过单位化，就得到一个标准正交向量组，这种方法称为施密特正交化。（来自[百度百科](https://baike.baidu.com/item/%E6%96%BD%E5%AF%86%E7%89%B9%E6%AD%A3%E4%BA%A4%E5%8C%96/756386?fr=aladdin)）
 
@@ -2210,7 +2210,7 @@ $$
       $$
   
   
-    <img src="https://oss.pyhdxy.com/img/2022/02/09/17:42:13-image-20220209174212529.png" alt="image-20220209174212529" style="zoom: 50%;" />
+    <img src="picture/17.png" alt="image-20220209174212529" style="zoom: 50%;" />
 
 [回到 正交替换](#⌚ 31:06 正交替换)
 
@@ -2345,7 +2345,7 @@ $$
 * 正交的性质：P^T^ = P^-1^
 * 正交/相似/合同 一定等价
 
-<img src="https://oss.pyhdxy.com/img/2022/02/02/23:58:41-矩阵关系总结.png" alt="矩阵关系总结" style="zoom:125%;" />
+<img src="picture/18.png" alt="矩阵关系总结" style="zoom:125%;" />
 
 ## ☄ P41 二次型化标准型（配方法）
 
@@ -2362,9 +2362,9 @@ $$
   * 利用y线性替换x，使得对y的方程满足标准型
   * 反向求==x关于y==的表达式
 
-<img src="https://oss.pyhdxy.com/img/2022/02/09/21:17:56-image-20220209211755668.png" alt="image-20220209211755668" style="zoom:50%;" />
+<img src="picture/19.png" alt="image-20220209211755668" style="zoom:50%;" />
 
-<img src="https://oss.pyhdxy.com/img/2022/02/09/21:21:12-image-20220209212111767.png" alt="image-20220209212111767" style="zoom:50%;" />
+<img src="picture/20.png" alt="image-20220209212111767" style="zoom:50%;" />
 
 * 只有交叉项的题的解题技巧（技巧固定）
 
