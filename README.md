@@ -4,10 +4,10 @@
 
 ## ☄ 说明
 
-- 此笔记对应视频来自[bilibili](https://www.bilibili.com/)视频网站，视频网址[《线性代数》高清教学视频 “惊叹号”系列 宋浩老师](https://www.bilibili.com/video/av29971113)
-- 此笔记改自github用户[cy69855522](https://github.com/cy69855522)，开源项目地址[Miao-A-SongHao-Linear-Algebra-Notes](https://github.com/cy69855522/Miao-A-SongHao-Linear-Algebra-Notes)，此笔记完善了大部分细节并补充了绝大多数晦涩难懂的证明过程
-- 此笔记建议搭配视频一同食用最佳~
-- 笔记作者：zijiren233
+- 本笔记对应视频来自[bilibili](https://www.bilibili.com/)视频网站，视频网址[《线性代数》高清教学视频 “惊叹号”系列 宋浩老师](https://www.bilibili.com/video/av29971113)
+- 本笔记改自github用户[cy69855522](https://github.com/cy69855522)，开源项目地址[Miao-A-SongHao-Linear-Algebra-Notes](https://github.com/cy69855522/Miao-A-SongHao-Linear-Algebra-Notes)，此笔记完善了大部分细节并补充了绝大多数晦涩难懂的证明过程
+- 本笔记建议搭配视频一同食用最佳~
+- 本笔记作者：[zijiren233](https://github.com/zijiren233)，本笔记的项目地址[Song-Hao-s-Notes-on-Linear-Algebra](https://github.com/zijiren233/Song-Hao-s-Notes-on-Linear-Algebra)
 
 ## ☄ P1 二阶三阶行列式
 
